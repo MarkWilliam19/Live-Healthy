@@ -1,1 +1,1 @@
-# Live-Healthy
+# Respiratory-System-Diseases-Detection
